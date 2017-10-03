@@ -1,81 +1,20 @@
 #markdown 基本语法
-
-2
-
+#title
 ##title
-
-3
-
-###title
-
-4
-
 -list
-
-5
-
--list
-
-6
-
 1.list
-
-7
-
 2.list
-
-8
-
-3.list
-
-9
-
 [url](http://www.jianshu.com/p/q81RER)
-
-10
-
 ![](http://upload-images.jianshu.io/upload_images/259-0ad0d0bfc1c608b6.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-11
-
->googler 
-
-12
-
-*斜体*
-
-13
-
-**粗体**
-
-14
+>googler
+*斜体***粗体**
 
 'code'
 
-15
-
-'''code code code'''
-
-16
-
-'''| Tables        | Are           | Cool  |
-
-17
-
+'''code'''
+| Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
-
-18
-
 | col 3 is      | right-aligned | $1600 |
-
-19
-
 | col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
 
-20
-
-| zebra stripes | are neat      |    $1 |'''
-
-21
-
-​
